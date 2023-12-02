@@ -1,0 +1,13 @@
+.playerCard {
+    margin: 1%;
+}
+
+.playerCard-Name {
+    overflow-wrap: break-word;
+}
+
+.playerCard-infos{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10%;
+}

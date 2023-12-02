@@ -1,0 +1,14 @@
+{
+    "exclude": ["node_modules", "webpack.config.js"],
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "target": "ESNext",
+        "jsx": "react",
+        "module": "esnext",
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    }
+}

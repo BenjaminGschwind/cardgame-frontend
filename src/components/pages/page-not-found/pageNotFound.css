@@ -1,0 +1,25 @@
+.root {
+    margin: 10%;
+}
+
+.label {
+    text-align: center;
+    font-weight: 900;
+    font-size: 1375%;
+    line-height: 1;
+    padding-bottom: 5%;
+    color: cadetblue;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 238%;
+}
+
+.description {
+    max-width: 45%;
+    margin: 5% auto auto;
+    text-align: center;
+}

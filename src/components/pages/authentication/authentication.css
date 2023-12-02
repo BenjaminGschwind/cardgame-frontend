@@ -1,0 +1,14 @@
+.form-content {
+    margin: 17% 32%;
+    position: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-content-header {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-align: left;
+}

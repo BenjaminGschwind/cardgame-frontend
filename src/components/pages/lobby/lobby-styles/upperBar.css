@@ -1,0 +1,7 @@
+.upper-bar-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}

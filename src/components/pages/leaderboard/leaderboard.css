@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.hovern:hover {
+    cursor: pointer;
+}
+
+.appBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

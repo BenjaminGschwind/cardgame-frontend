@@ -1,0 +1,29 @@
+.chatroom-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 20rem;
+    border-radius: 7px;
+    border-color: black;
+    border-style: solid;
+}
+
+.form-wrapper {
+    padding-top: 2%;
+}
+
+.message-window {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.message-window > :first-child {
+    margin-top: auto;
+}
+
+.message {
+    overflow-wrap: break-word;
+    padding-left: 2%;
+}
